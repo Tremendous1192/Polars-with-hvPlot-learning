@@ -1,5 +1,7 @@
 # Polars-with-hvPlot-learning
-Polarsにグラフ描画メソッドを組み込むことができるライブラリhvPlotの練習リポジトリ
+Polarsにグラフ描画メソッドを組み込むことができるライブラリhvPlotの練習リポジトリ.
+
+文章の多くは,Google翻訳を使用しています.
 
 ## Reference Gallery
 各節のリンクはhvPlotのWebページ
