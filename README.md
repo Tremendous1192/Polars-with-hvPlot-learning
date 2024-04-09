@@ -11,6 +11,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
         * xarrayのチュートリアルデータを使って棒グラフを描画します.
         * Polarsデータフレームをインスタンス化する時に,[xarray.DataArray.to_dataframe](https://docs.xarray.dev/en/latest/generated/xarray.DataArray.to_dataframe.html)で一度Pandasデータフレームに変換してから,[polars.from_pandas](https://docs.pola.rs/py-polars/html/reference/api/polars.from_pandas.html)で読み込んでいます.
+    1. [Contour](https://hvplot.holoviz.org/reference/xarray/contour.html)
+        * 2024年4月9日時点ではPolarsで等高線を描画できませんでした.
 
 
 
