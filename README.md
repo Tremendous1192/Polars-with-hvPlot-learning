@@ -6,6 +6,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
 ## Reference Gallery
 各節のリンクはhvPlotのWebページ
 1. Tabular
+    1. [Andrewscurves](https://hvplot.holoviz.org/reference/tabular/andrewscurves.html)
+        * 2024年4月9日時点ではPolarsで描画できませんでした.
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
