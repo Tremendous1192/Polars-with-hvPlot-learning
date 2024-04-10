@@ -10,6 +10,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
         * 2024年4月9日時点ではPolarsで描画できませんでした.
     1. [Area](https://hvplot.holoviz.org/reference/tabular/area.html)
         * 2つの曲線の間を塗りつぶす方法を紹介しています.
+    1. [Bar](https://hvplot.holoviz.org/reference/tabular/bar.html)
+        * 通常の棒グラフと積み上げ棒グラフを紹介しています.
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
