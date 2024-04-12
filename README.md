@@ -45,6 +45,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
        * 2024年4月12日時点でPolarsだと描画されない
     1. [Step](https://hvplot.holoviz.org/reference/tabular/step.html)
        * ステッププロット
+    1. [Table](https://hvplot.holoviz.org/reference/tabular/table.html)
+       * VS Codeの表示部にスクロール可能な表を表示する
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
