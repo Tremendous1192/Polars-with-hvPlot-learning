@@ -47,6 +47,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
        * ステッププロット
     1. [Table](https://hvplot.holoviz.org/reference/tabular/table.html)
        * VS Codeの表示部にスクロール可能な表を表示する
+    1. [Violin](https://hvplot.holoviz.org/reference/tabular/violin.html)
+       * ヴァイオリンプロット
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
