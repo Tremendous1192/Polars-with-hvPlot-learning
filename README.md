@@ -18,6 +18,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
         * 二次元密度プロット
     1. [Box](https://hvplot.holoviz.org/reference/tabular/box.html)
         * 箱ひげ図
+    1. [Errorbars](https://hvplot.holoviz.org/reference/tabular/errorbars.html)
+        * ```*```演算子で既存の散布図にエラーバーを追加する方法
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
