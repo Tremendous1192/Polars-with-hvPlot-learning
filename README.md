@@ -37,6 +37,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
     1. [Ohlc](https://hvplot.holoviz.org/reference/tabular/ohlc.html)
        * ローソク足
        * グラフを縦にまとめる方法
+    1. [Parallelcoordinates](https://hvplot.holoviz.org/reference/tabular/parallelcoordinates.html)
+       * 2024年4月12日時点でPolars未対応
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
