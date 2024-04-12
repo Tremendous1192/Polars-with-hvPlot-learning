@@ -12,6 +12,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
         * 2つの曲線の間を塗りつぶす方法を紹介しています.
     1. [Bar](https://hvplot.holoviz.org/reference/tabular/bar.html)
         * 通常の棒グラフと積み上げ棒グラフを紹介しています.
+    1. [Barh](https://hvplot.holoviz.org/reference/tabular/barh.html)
+        * 水平方向の棒グラフと```by```キーワードで色分けする方法を紹介しています.
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
