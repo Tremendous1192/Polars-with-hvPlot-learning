@@ -7,48 +7,47 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
 各節のリンクはhvPlotのWebページ
 1. Tabular
     1. [Andrewscurves](https://hvplot.holoviz.org/reference/tabular/andrewscurves.html)
-        * 2024年4月9日時点でPolars未対応
+    :2024年4月9日Polars未対応
     1. [Area](https://hvplot.holoviz.org/reference/tabular/area.html)
-        * 2つの曲線の間を塗りつぶす方法
+    :2つの折れ線グラフの間を塗りつぶす
     1. [Bar](https://hvplot.holoviz.org/reference/tabular/bar.html)
-        * 通常の棒グラフと積み上げ棒グラフ
+    :通常の棒グラフと積み上げ棒グラフ
     1. [Barh](https://hvplot.holoviz.org/reference/tabular/barh.html)
-        * 水平方向の棒グラフと```by```キーワードで色分けする方法
+    :水平方向の棒グラフと```by```キーワードで色分けする方法
     1. [Bivariate](https://hvplot.holoviz.org/reference/tabular/bivariate.html)
-        * 二次元密度分布
+    :二次元密度分布
     1. [Box](https://hvplot.holoviz.org/reference/tabular/box.html)
-        * 箱ひげ図
+    :箱ひげ図
     1. [Errorbars](https://hvplot.holoviz.org/reference/tabular/errorbars.html)
-        * ```*```演算子で既存の散布図にエラーバーを追加する方法
+    :```*```演算子で既存の散布図にエラーバーを追加する方法
     1. [Heatmap](https://hvplot.holoviz.org/reference/tabular/heatmap.html)
-        * 2024年4月12日時点でPolars未対応
+    :2024年4月12日Polars未対応
     1. [Hexbin](https://hvplot.holoviz.org/reference/tabular/hexbin.html)
-        * サンプルデータセットを取得できなかった
+    :サンプルデータセットを取得できなかった
     1. [Hist](https://hvplot.holoviz.org/reference/tabular/hist.html)
-        * ヒストグラム
+    :ヒストグラム
     1. [Kde](https://hvplot.holoviz.org/reference/tabular/kde.html)
-        * 1次元密度分布
+    :1次元密度分布
     1. [Labels](https://hvplot.holoviz.org/reference/tabular/labels.html)
-        * グラフへのラベル追加
+    :グラフへのラベル追加
     1. [Lagplot](https://hvplot.holoviz.org/reference/tabular/lagplot.html)
-       * 2024年4月12日時点でPolars未対応
+    :2024年4月12日Polars未対応
     1. [Line](https://hvplot.holoviz.org/reference/tabular/line.html)
-       * 折れ線グラフ
+    :折れ線グラフ
     1. [Ohlc](https://hvplot.holoviz.org/reference/tabular/ohlc.html)
-       * ローソク足
-       * グラフを縦にまとめる方法
+    :ローソク足, グラフを縦にまとめる方法
     1. [Parallelcoordinates](https://hvplot.holoviz.org/reference/tabular/parallelcoordinates.html)
-       * 2024年4月12日時点でPolars未対応
+    :2024年4月12日Polars未対応
     1. [Scatter](https://hvplot.holoviz.org/reference/tabular/scatter.html)
-       * 散布図
+    :散布図
     1. [Scattermatrix](https://hvplot.holoviz.org/reference/tabular/scattermatrix.html)
-       * 2024年4月12日時点でPolarsだと描画されない
+    :2024年4月12日でPolarsだと描画されない
     1. [Step](https://hvplot.holoviz.org/reference/tabular/step.html)
-       * ステッププロット
+    :ステッププロット
     1. [Table](https://hvplot.holoviz.org/reference/tabular/table.html)
-       * VS Codeの表示部にスクロール可能な表を表示する
+    :VS Codeの表示部にスクロール可能な表を表示する
     1. [Violin](https://hvplot.holoviz.org/reference/tabular/violin.html)
-       * ヴァイオリンプロット
+    :ヴァイオリンプロット
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
