@@ -28,6 +28,10 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
         * ヒストグラム
     1. [Kde](https://hvplot.holoviz.org/reference/tabular/kde.html)
         * 1次元密度分布
+    1. [Labels](https://hvplot.holoviz.org/reference/tabular/labels.html)
+        * グラフへのラベル追加
+    1. [Lagplot](https://hvplot.holoviz.org/reference/tabular/lagplot.html)
+       * 
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
