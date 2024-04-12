@@ -22,6 +22,10 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
         * ```*```演算子で既存の散布図にエラーバーを追加する方法
     1. [Heatmap](https://hvplot.holoviz.org/reference/tabular/heatmap.html)
         * 2024年4月12日時点でPolars未対応
+    1. [Hexbin](https://hvplot.holoviz.org/reference/tabular/hexbin.html)
+        * サンプルデータセットを取得できなかった
+    1. [Hist](https://hvplot.holoviz.org/reference/tabular/hist.html)
+        * ヒストグラム
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
