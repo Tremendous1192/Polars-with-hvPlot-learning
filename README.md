@@ -7,7 +7,7 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
 各節のリンクはhvPlotのWebページ
 1. Tabular
     1. [Andrewscurves](https://hvplot.holoviz.org/reference/tabular/andrewscurves.html)
-        * 2024年4月9日時点ではPolarsで描画できませんでした.
+        * 2024年4月9日時点でPolars未対応
     1. [Area](https://hvplot.holoviz.org/reference/tabular/area.html)
         * 2つの曲線の間を塗りつぶす方法
     1. [Bar](https://hvplot.holoviz.org/reference/tabular/bar.html)
@@ -20,6 +20,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
         * 箱ひげ図
     1. [Errorbars](https://hvplot.holoviz.org/reference/tabular/errorbars.html)
         * ```*```演算子で既存の散布図にエラーバーを追加する方法
+    1. [Heatmap](https://hvplot.holoviz.org/reference/tabular/heatmap.html)
+        * 2024年4月12日時点でPolars未対応
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
