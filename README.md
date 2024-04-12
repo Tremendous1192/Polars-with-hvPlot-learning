@@ -15,7 +15,7 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
     1. [Barh](https://hvplot.holoviz.org/reference/tabular/barh.html)
         * 水平方向の棒グラフと```by```キーワードで色分けする方法
     1. [Bivariate](https://hvplot.holoviz.org/reference/tabular/bivariate.html)
-        * 二次元密度プロット
+        * 二次元密度分布
     1. [Box](https://hvplot.holoviz.org/reference/tabular/box.html)
         * 箱ひげ図
     1. [Errorbars](https://hvplot.holoviz.org/reference/tabular/errorbars.html)
@@ -26,6 +26,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
         * サンプルデータセットを取得できなかった
     1. [Hist](https://hvplot.holoviz.org/reference/tabular/hist.html)
         * ヒストグラム
+    1. [Kde](https://hvplot.holoviz.org/reference/tabular/kde.html)
+        * 1次元密度分布
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
