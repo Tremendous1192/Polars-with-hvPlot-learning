@@ -31,7 +31,7 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
     1. [Labels](https://hvplot.holoviz.org/reference/tabular/labels.html)
         * グラフへのラベル追加
     1. [Lagplot](https://hvplot.holoviz.org/reference/tabular/lagplot.html)
-       * 
+       * 2024年4月12日時点でPolars未対応
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
