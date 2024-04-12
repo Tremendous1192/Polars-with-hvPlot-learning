@@ -41,6 +41,8 @@ Polarsにグラフ描画メソッドを組み込むことができるライブ�
        * 2024年4月12日時点でPolars未対応
     1. [Scatter](https://hvplot.holoviz.org/reference/tabular/scatter.html)
        * 散布図
+    1. [Scattermatrix](https://hvplot.holoviz.org/reference/tabular/scattermatrix.html)
+       * 2024年4月12日時点でPolarsだと描画されない
 1. Geopandas
 1. Xarray
     1. [Bar](https://hvplot.holoviz.org/reference/xarray/bar.html)
